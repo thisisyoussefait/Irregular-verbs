@@ -1,0 +1,21 @@
+body{
+    background-image: url("background.jpg");
+    color: white;
+}
+
+#D1{
+    text-align: center;
+    padding: 10px;
+}
+#D2{
+    text-align: center;
+    padding: 10px;
+}
+#D3{
+    text-align: center;
+    padding: 10px;
+}
+#D4{
+    text-align: center;
+    padding: 10px;
+}
